@@ -1,3 +1,7 @@
+"""
+ABC168C
+"""
+
 import math
 
 a, b, h, m = map(int, input().split())

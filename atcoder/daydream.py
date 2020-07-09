@@ -1,4 +1,8 @@
 """
+ABC049C
+"""
+
+"""
 string = "apple"
 string = string.rstrip(string[-2:])
 # string_ = string[-3:-1]
